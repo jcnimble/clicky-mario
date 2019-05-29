@@ -26,7 +26,7 @@ Deploying to GitHub was difficult, it took seven attempts. I thought I could upl
 
 ## Built With
 
-* [React]
+* React
 
 
 ## Authors
