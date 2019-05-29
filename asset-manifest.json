@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clicky-mario/static/css/main.d1009e63.chunk.css",
+    "main.js": "/clicky-mario/static/js/main.a380e0c3.chunk.js",
+    "main.js.map": "/clicky-mario/static/js/main.a380e0c3.chunk.js.map",
+    "runtime~main.js": "/clicky-mario/static/js/runtime~main.d75047aa.js",
+    "runtime~main.js.map": "/clicky-mario/static/js/runtime~main.d75047aa.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/clicky-mario/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/clicky-mario/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/clicky-mario/index.html",
+    "precache-manifest.0ea475f7ade572e8aa8e6a6b73946fae.js": "/clicky-mario/precache-manifest.0ea475f7ade572e8aa8e6a6b73946fae.js",
+    "service-worker.js": "/clicky-mario/service-worker.js",
+    "static/css/main.d1009e63.chunk.css.map": "/clicky-mario/static/css/main.d1009e63.chunk.css.map"
+  }
+}
