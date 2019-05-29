@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a memory game with React. This assignment breaks the application's UI into components, manage component state, and respond to user events.
+This is a memory game with React. This assignment breaks the application's UI into components, manages component state, and respond to user events.
 
   * The application renders different Nintendo Character images to the screen. Each image listens for click events.
 
