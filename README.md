@@ -12,7 +12,7 @@ This is a memory game with React. This assignment breaks the application's UI in
 
   * Once the user's score is reset after an incorrect guess, the game should restart.
 
-![clickygame.png]()
+![](clickygame.png)
 
 
 Check it out: https://jcnimble.github.io/clicky-mario/
